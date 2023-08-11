@@ -50,3 +50,13 @@ body {
   gap: 10px;
   padding: 24px;
 }
+
+#socialLinks {
+  display: flex;
+  justify-content: center;
+  padding: 24px;
+  gap: 16px;
+
+  font-size: 24px;
+}
+
